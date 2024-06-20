@@ -1,0 +1,18 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8Üî†µƒ2J$06a190a6-da3b-4536-b0a4-bb73fd17b0e1
+f
+java:S16595"#Declare "line2" on a separate line.(¼Ã¿ƒ8ô… µƒ2J$f015b932-49d3-48fc-bdc8-01a4f0c6ae9a
+r	java:S106d"+Replace this use of System.out by a logger.(İ—ƒøÿÿÿÿ8ğî†µƒ2J$f3203400-39ff-46d4-adbc-d69e35a90db5
+r	java:S106e"+Replace this use of System.out by a logger.(Á˜Ã°ÿÿÿÿÿ8ğî†µƒ2J$6315b8dd-8337-4007-832a-a157c9eb7c9b
+r	java:S106h"+Replace this use of System.out by a logger.(Ñ…ë“üÿÿÿÿ8ñî†µƒ2J$c6a1c9f6-75e3-449d-b1da-ac946d9347b9
+n	java:S106ˆ"+Replace this use of System.out by a logger.(ºé¿æ8ñî†µƒ2J$12ccdcbd-6501-4b7e-9dc9-cc6a593824b6
+s	java:S106‰"+Replace this use of System.out by a logger.(‡ëÌ²ÿÿÿÿÿ8ñî†µƒ2J$40188596-8817-4207-a544-db88aace686e
+s	java:S106Š"+Replace this use of System.out by a logger.(Â¿øŸøÿÿÿÿ8ı… µƒ2J$a966f1b2-84ad-44b5-814a-5258b01fc32d
+n	java:S106‹"+Replace this use of System.out by a logger.(âó™±8ı… µƒ2J$d392a257-862d-43bb-a657-b9cc1e578e4b
+s	java:S106Œ"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ı… µƒ2J$eede9877-6b02-4a41-b26a-0452d073e111
+s	java:S106"+Replace this use of System.out by a logger.(¿…äøÿÿÿÿ8ı… µƒ2J$317d368d-fa4d-49c0-9cf8-9cac849bc29e
+s	java:S106’"+Replace this use of System.out by a logger.(Ñ…ë“üÿÿÿÿ8ş… µƒ2J$f1b1a0fc-0a29-4c50-8f95-66a422c511ff
+n	java:S106µ"+Replace this use of System.out by a logger.(Ç¼Ş½8‚† µƒ2J$66690efc-a8b9-4ad8-806b-4ee56ae4287e
+s	java:S106¸"+Replace this use of System.out by a logger.(¹øÜ¢øÿÿÿÿ8‚† µƒ2J$1ba08d93-7d97-4537-abd6-6ac2fa40fc00
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ôî†µƒ2J$48c66d46-696a-47e4-8bc9-000b6ce2d032
